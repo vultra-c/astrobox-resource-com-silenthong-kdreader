@@ -1,0 +1,45 @@
+{
+  "item": {
+    "id": "com.silenthong.kdreader",
+    "restype": "quick_app",
+    "name": "考点阅读器(Preview)",
+    "description": "通过蓝牙将手机txt考点文件传输到小米手环，支持文件夹管理与离线阅读，提供随时随地的考点复习体验。",
+    "preview": [
+      "media/7630.jpg"
+    ],
+    "icon": "media/7631.jpg",
+    "cover": "media/7632.jpg",
+    "author": [
+      {
+        "name": "Vultra",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "B站",
+      "url": "https://b23.tv/ZSOZi69",
+      "icon": ""
+    },
+    {
+      "title": "官网(完善中)",
+      "url": "https://examreader.vultra.dpdns.org",
+      "icon": ""
+    }
+  ],
+  "downloads": {
+    "xmb9p": {
+      "version": "Preview",
+      "file_name": "downloads/6a653716db61170683a95659_考点阅读器-ui-fix.rpk"
+    }
+  },
+  "ext": {
+    "trialDownloads": {
+      "xmb9p": {
+        "version": "Preview",
+        "file_name": "downloads/trial/6a653716db61170683a95659_考点阅读器-ui-fix.rpk"
+      }
+    }
+  }
+}
