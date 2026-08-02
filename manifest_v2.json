@@ -3,12 +3,12 @@
     "id": "com.silenthong.kdreader",
     "restype": "quick_app",
     "name": "考点阅读器(Preview)",
-    "description": "通过蓝牙将手机txt考点文件传输到小米手环，支持文件夹管理与离线阅读，提供随时随地的考点复习体验。",
+    "description": "通过蓝牙将手机txt考点文件传输到小米手环，支持文件夹管理与离线阅读，提供随时随地的考点复习体验。安卓端同步软件请从以下链接下载:https://pan.quark.cn/s/a549c8e01a1c",
     "preview": [
-      "media/7630.jpg"
+      "media/7642.jpg"
     ],
-    "icon": "media/7631.jpg",
-    "cover": "media/7632.jpg",
+    "icon": "media/7641.jpg",
+    "cover": "media/7643.jpg",
     "author": [
       {
         "name": "Vultra",
